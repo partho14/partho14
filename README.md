@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Partha Pratim Das</a></h1>
 
 # 💫 About Me:
-🔭 I’m currently working on a software company & a start-up.<br>👯 I’m looking to collaborate on Open Source Flutter and Swift Projects.<br>🤝 I’m looking for help with ExpressJS.<br>🌱 I’m currently learning VueJS.<br>💬 Ask me about Flutter & Swift.
+🔭 I’m currently working on a software company & a start-up.<br>👯 I’m looking to collaborate on Open Source Flutter and Swift Projects.<br>🤝 I’m looking for help with ExpressJS.<br>🌱 I’m currently learning ReactJS.<br>💬 Ask me about Flutter & Swift.
 
 
 ## 🌐 Socials:
